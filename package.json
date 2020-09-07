@@ -1,0 +1,15 @@
+{
+  "name": "storyboox.github.io",
+  "version": "1.0.1",
+  "description": "Storyboox website",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/storyboox/storyboox.github.io.git"
+  },
+  "author": "ziv@github",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/storyboox/storyboox.github.io/issues"
+  },
+  "homepage": "https://github.com/storyboox/storyboox.github.io#readme"
+}
